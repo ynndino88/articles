@@ -56,6 +56,27 @@ tags: [採用, イベントレポ, Podcast]
 - [参考資料2](URL)
 ```
 
+<!--
+## 📁 フォルダの構成 
+```
+articles/
+│── README.md
+│── recruitment/
+│   ├── 2025-03-13-scouting-tips.md
+│   ├── 2025-02-28-interview-strategy.md
+│── conference/
+│   ├── 2025-04-15-rubykaigi2025.md
+│   ├── 2025-05-20-kaigionrails.md
+│── podcast/
+│   ├── 2025-03-10-episode1.md
+│   ├── 2025-03-17-episode2.md
+```
+recruitment/ … 採用・人事のノウハウ
+conference/ … 参加したカンファレンスのレポ
+podcast/ … Podcastの収録メモや学び
+README.md … 目次やリポジトリの説明
+-->
+
 ## 🤝 コントリビューション（共同執筆について）
 
 1. `issues/` にアイデアをメモ
